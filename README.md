@@ -17,5 +17,6 @@ phrase, complete_response = speech.speech_to_text('es_ES') # select the language
 print phrase
 ```
 
-
+#Donations: BitCoins
+`1PfbPmwp6jqjuAdRfH3W1ya9JmDBK1yyW6`
 
